@@ -8,4 +8,4 @@
 
 基于反射根据 Hive 表名加载相应的日志模型类进行数据处理
 
-## support flink
+## Support Flink
